@@ -1,0 +1,10 @@
+G:\원고\VB2015\VB2015(예제)\실습2-13\실습2-13\bin\Debug\실습2-13.exe.config
+G:\원고\VB2015\VB2015(예제)\실습2-13\실습2-13\bin\Debug\실습2-13.exe
+G:\원고\VB2015\VB2015(예제)\실습2-13\실습2-13\bin\Debug\실습2-13.pdb
+G:\원고\VB2015\VB2015(예제)\실습2-13\실습2-13\bin\Debug\실습2-13.xml
+G:\원고\VB2015\VB2015(예제)\실습2-13\실습2-13\obj\Debug\실습2-13.vbprojResolveAssemblyReference.cache
+G:\원고\VB2015\VB2015(예제)\실습2-13\실습2-13\obj\Debug\실습2_13.Resources.resources
+G:\원고\VB2015\VB2015(예제)\실습2-13\실습2-13\obj\Debug\실습2-13.vbproj.GenerateResource.Cache
+G:\원고\VB2015\VB2015(예제)\실습2-13\실습2-13\obj\Debug\실습2-13.exe
+G:\원고\VB2015\VB2015(예제)\실습2-13\실습2-13\obj\Debug\실습2-13.xml
+G:\원고\VB2015\VB2015(예제)\실습2-13\실습2-13\obj\Debug\실습2-13.pdb

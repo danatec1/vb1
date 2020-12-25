@@ -1,0 +1,10 @@
+D:\원고\VB2019\VB2019(예제)\실습3-26\bin\Debug\실습3-26.exe.config
+D:\원고\VB2019\VB2019(예제)\실습3-26\bin\Debug\실습3-26.exe
+D:\원고\VB2019\VB2019(예제)\실습3-26\bin\Debug\실습3-26.pdb
+D:\원고\VB2019\VB2019(예제)\실습3-26\bin\Debug\실습3-26.xml
+D:\원고\VB2019\VB2019(예제)\실습3-26\obj\Debug\실습3-26.vbprojAssemblyReference.cache
+D:\원고\VB2019\VB2019(예제)\실습3-26\obj\Debug\실습3_26.Resources.resources
+D:\원고\VB2019\VB2019(예제)\실습3-26\obj\Debug\실습3-26.vbproj.GenerateResource.cache
+D:\원고\VB2019\VB2019(예제)\실습3-26\obj\Debug\실습3-26.exe
+D:\원고\VB2019\VB2019(예제)\실습3-26\obj\Debug\실습3-26.xml
+D:\원고\VB2019\VB2019(예제)\실습3-26\obj\Debug\실습3-26.pdb
